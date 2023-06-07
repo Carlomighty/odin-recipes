@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Odin-recipes</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body style="background-color: blanchedalmond;">
+
+    <!--this is an example of a HTLM commnent-->
+    <h1>  <em> Curry pasta with ground beef recipe and pineaple</em></h1>
+    
+    <img src="ground beef and pasta with pineapple .jpeg"  
+     a picture of a plate of pasta and groung beef
+    style="width:600px;height:auto;">
+
+    <p>This is a relatively easy recipe to follow and that anyone can 
+        make at home in less than an hour to safisfy themselves. Serving 
+        size and quantity is dependent on how many people are planning to eat.
+    </p>
+    <h2>Ingredients</h2>
+
+    <ul>
+        <li>2 tablespoons of olive oil</li>
+        <li>1 pound of ground beef</li>
+        <li>1 pound of pasta of your preference</li>
+        <li>1(15 ounce) can pineaple chunks, drained,liquid reserved</li>
+        <li>1 medium leek, cleaned and thinly sliced</li>
+        <li>3 tablespoons of mild curry powder</li>
+        <li>1 tablespoon instant vegetable bouillon granules</li>
+        <li>salt and freshly ground pepper to taste</li>
+        <li>1/2 cup of ketchup</li>
+        <li>4 tablespoons of tomato paste</li>
+        <li>1 cup heavy cream</li>
+    </ul>
+
+    <h3> Directions </h3>
+
+    <ol>
+        <li> First
+            <p>prepare a large pot of lightly salted water to a boil.
+                Add your pasta in for cooking once the water starts to boil.
+                Stir occasionally until the pasta is cook but slightly firm.
+            </p>
+        </li>
+        <li> Second
+            <p> Meanwhile, heat oil in a large skillet. Add ground beef and cook,
+                stirring until browned, about 5-10 minutes depending on the cooking level.
+                Add drained pineapple chunks and leek and cook over medium to high heat
+                for about 5 minutes. Pour in about 1/2 of the pineapple juice. Season with 
+                curry powder, bouillon, salt and pepper.
+            </p>
+        </li>
+        <li> Third
+            <p> Stir in ketchup and tomato paste until it is well conbbined. Cover and simmer
+                over low heat for 5-8 minutes. If the sauce seems dry, add more pineaple juice.
+            </p>
+        </li>
+        <li> Fourth 
+           <p>  Pour in cream and mix to combine. Cook for about 2-4 minutes </p>
+         </li>
+         <li> Fifth
+            <p> Drain pasta and add the skillet with the sauce. Mix well and serve.</p>
+         </li>
+    
+
+    </ol>
+<div class="Elbows and ground beef">
+    <h1> <em> Elbows and ground beef</em></h1>
+    </div>
+
+    <img src="Elbows and ground beef .webp"
+    image of a plate of elbows and ground beef
+    style="width:450px;height:autox;">
+
+
+        <p> Elbow pasta with ground beef, bell pepper and onions with tomato sauce. 
+        This is a quick and easy meal. Serve with a salad and loaf of bread, delicious !
+    </p>
+
+    <h2> Ingredients</h2>
+
+    <ul>
+        <li>1 onion chopped</li>
+        <li>1 1/2 pound of lean ground beef</li>
+        <li>1 green bell pepper, chopped</li>
+        <li>2 (29 ounce) cans tomato sauce</li>
+        <li>1 (16 ounce) package macaroni</li>
+    </ul>
+
+    <h3> Directions </h3>
+
+    <ol>
+        <li> First
+            <p>Cook pasta according to package directions. Drain.</p>
+        </li>
+        <li> Second 
+            <p>In a Dutch oven, brown ground beef over medium heat.Add chopped
+                onion, and cook until onion is soft. Add green pepper and tomato 
+                sauce; cook until pepper is soft. 
+            </p>
+        </li>
+        <li> Third</li>
+        <p>Serve sauce over pasta</p>
+    </ol>
+    
+
+    <h1> <em>Ground Beef Yorkshire</em></h1>
+
+    <!--this is an example of a HTML commnent -->
+
+    <img src="Ground Beef Yorkshire .webp"
+    a plate of sliced ground beef yorkshire
+    style="width:450px;height:autopx;">
+
+    <p>This dish features ground beef and Yorkshire pudding in a comfort food one 
+        dish casserole.
+    </p>
+
+    <h2> Ingredients</h2>
+
+    <ul>
+        <li>1 cup of all purpose flour</li>
+        <li>1 teaspoon of baking powder</li>
+        <li>1 teaspoon of salt</li>
+        <li>3 eggs, beaten</li>
+        <li>1 1/2 cup of milk</li>
+        <li>1/4 cup of melted butter</li>
+        <li>1 tablespoon of dried parsley</li>
+        <li>1 pound of ground beef extra lean</li>
+        <li>1/4 cup of finely chopped onions</li>
+        <li>1/4 cup of diced celery</li>
+        <li>1/4 cup of chopped carrot</li>
+        <li>1/2 teaspoon of salt</li>
+        <li>1/4 teaspoon of pepper</li>
+        <li>1 tablespoon of Worcestershire sauce</li>
+        <li>1 tablespoon of steak sauce (such as A.1.)</li>
+    </ul>
+
+    <h3>Directions</h3>
+
+    <ol>
+        <li> First
+            <p>Preheat an oven to 350 degrees F (175 degrees C). Lightly grease an 
+                8x8 inch baking dish.
+            </p>
+        </li>
+        <li> Second 
+            <p> Whisk together the flour, the baking powder, and the 1 tablespoon 
+                of salt. In a separate bowl, whisk together the egg mixture over the 
+                flour mixture; beat until well blended. Stir in parsley; set aside.
+            </p>
+        </li>
+        <li> Third
+            <p> Heat a large skillet over medium high heat and stir in the ground 
+                beef and onion. Cook and stir until the beef is crumbly, evenly
+                browned, and no longer pink, about 10 minutes. Drain and disgard any 
+                excess grease. 
+            </p>
+        </li>
+        <li> Fourth 
+            <p> Combine the drained meat mixture with celery, carrot, the 1/2 teaspoon of
+                salt, pepper, Worcestershire sauce, and steak sauce. Spread the meat mixture
+                evenly into the prepared baking dish. Pour the batter over the meat.
+            </p>
+        </li>
+        <li> Fifth
+            <p>Bake in the preheated oven until the pudding has risen tall and is golden,
+                 for about 45 minutes. Serve immediately
+            </p>
+        </li>
+    </ol>
+
+    <a href="index.html"> return to main page<a/>
+
+</body>
+</html>
